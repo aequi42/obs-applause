@@ -1,0 +1,29 @@
+{
+  "name": "obs-applause-admin",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "aequi42 <aequi42@users.noreply.github.com>",
+  "homepage": "https://github.com/aequi42/obs-applause#readme",
+  "license": "MIT",
+  "main": "lib/obs-applause-admin.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "registry": "https://registry.yarnpkg.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aequi42/obs-applause.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/aequi42/obs-applause/issues"
+  }
+}

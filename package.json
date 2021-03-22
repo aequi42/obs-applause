@@ -1,0 +1,19 @@
+{
+  "name": "obs-applause",
+  "version": "1.0.0",
+  "description": " Overlay to show applause from twich chat in obs.",
+  "main": "src/index.js",
+  "repository": "https://github.com/aequi42/obs-applause",
+  "author": "aequi42 <aequi42@users.noreply.github.com>",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "devDependencies": {
+    "@swc/cli": "^0.1.35",
+    "@swc/core": "^1.2.50",
+    "lerna": "^4.0.0",
+    "typescript": "^4.2.3"
+  }
+}
